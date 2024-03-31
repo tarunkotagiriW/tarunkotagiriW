@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Blockhcain
 - 📫 How to reach me: _
 -->
+- 🔭 I’m currently working on Finance
+- 🌱 I’m currently learning Bloomberg
+- 👯 I’m looking to collaborate on Blockchain and Finance Projects
+- 🤔 I’m looking for help with Accounting
+- 💬 Ask me about Blockhcain
+- 📫 How to reach me: _
 I'm a student at Woxsen University currently pursuing my MBA in Finance. I'm passionate about exploring the intricacies of financial management, investment strategies, and the dynamic world of corporate finance.
 
 Purpose of Repository
